@@ -44,7 +44,7 @@ social_image = "icons/github.svg"
 name = "CyzmiX"
 bio = "Im a 18 years old, morrocan software engineer intrested in software and system's design"
 # The URL of avatar.
-avatar_url = "icons/pfp.png"
+avatar_url = "icons/pfp.jpeg"
 # Invert color in dark mode.
 avatar_invert = false
 
