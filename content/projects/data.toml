@@ -1,0 +1,25 @@
+[[project]]
+name = "Luma"
+desc = "A lightweight, cross-platform Python game framework built on SDL3, with windowing, graphics, input, text, and audio."
+tags = ["Python", "SDL3", "Game Development", "Framework"]
+links = [
+  { name = "github", url = "https://github.com/ItzCyzmiX/luma" },
+  { name = "pypi", url = "https://pypi.org/project/luma-engine/" },
+]
+
+[[project]]
+name = "Therl"
+desc = "Truly Human Readable Language — an embeddable, pure-Python instruction interpreter for a simple, readable programming language."
+tags = ["Python", "Interpreter", "Programming Languages"]
+links = [
+  { name = "github", url = "https://github.com/ItzCyzmiX/therl" },
+  { name = "pypi", url = "https://pypi.org/project/therl/" },
+]
+
+[[project]]
+name = "RustDB"
+desc = "A proof-of-concept in-memory database written in Rust, exploring tables, schemas, typed values, constraints, and update operations."
+tags = ["Rust", "Database", "Data Structures"]
+links = [
+  { name = "github", url = "https://github.com/ItzCyzmiX/rustdb" },
+]
